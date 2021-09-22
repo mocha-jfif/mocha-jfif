@@ -3,9 +3,10 @@
 # Computer Information Technology Major / Minor in Management #
 ```
 ##### ➔ Currently working on: 
-> ######  ▹ Carrying group projects 
+> ######  ▹ Carrying group projects
 > ###### ▹ Studying for exams 
  > ###### ▹ Finishing my endless cup of coffee 
+ > ###### ▹ Setting up roaming profiles and GPOs on a Windows 2019 Server
   
 ##### ➔ Finished projects: 
 > ###### ▹ [Basic Python Calorie Counter](https://github.com/mocha-jfif/CalorieCounter) 
