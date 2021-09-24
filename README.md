@@ -4,9 +4,9 @@
 ```
 ##### ➔ Currently working on: 
 > ######  ▹ Carrying group projects
-> ###### ▹ Studying for exams 
+> ###### ▹ Developing new coding project (more info later)
  > ###### ▹ Finishing my endless cup of coffee 
- > ###### ▹ Setting up roaming profiles and GPOs on a Windows 2019 Server
+ > ###### ▹Craving sleep
   
 ##### ➔ Finished projects: 
 > ###### ▹ [Basic Python Calorie Counter](https://github.com/mocha-jfif/CalorieCounter) 
