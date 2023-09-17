@@ -3,8 +3,7 @@
 # Computer Information Technology Major / Minor in Management #
 ```
 ##### ➔ Currently working on: 
-> ######  ▹ Carrying group projects
-> ###### ▹ Developing new coding project (more info later)
+> ###### ▹ My last semester in college!
  > ###### ▹ Finishing my endless cup of coffee 
  > ###### ▹Craving sleep
   
