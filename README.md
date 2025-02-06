@@ -1,11 +1,11 @@
 ```diff
 @@ Howdy, I’m @mocha-jfif @@
-# Computer Information Technology Major / Minor in Management #
+# Purdue Grad '23 | Systems Technician II #
 ```
 ##### ➔ Currently working on: 
-> ###### ▹ My last semester in college!
+> ###### ▹ CompTIA certs (yippee)
  > ###### ▹ Finishing my endless cup of coffee 
- > ###### ▹Craving sleep
+ > ###### ▹ Craving sleep
   
 ##### ➔ Finished projects: 
 > ###### ▹ [Basic Python Calorie Counter](https://github.com/mocha-jfif/CalorieCounter) 
